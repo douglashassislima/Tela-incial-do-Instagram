@@ -2,4 +2,4 @@
 
 
 
-:desktop_computer: :mousecase :computer_mouse:
+:desktop_computer:  :computer_mouse:
